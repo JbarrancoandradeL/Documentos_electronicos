@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Errores  comunes
 ----------------
 
 To retrieve a list of random ingredients,
@@ -31,4 +31,6 @@ For example:
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
+
+
 
