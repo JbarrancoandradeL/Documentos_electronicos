@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Documentos Electronicos'
+copyright = '2023, Quality tech solutions'
+author = 'Jhon Jairo Barranco'
 
 release = '0.1'
 version = '0.1.0'
